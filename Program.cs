@@ -7,22 +7,22 @@
             double x = 15, y = 5, result;
             
 
-            // Addition operator
+            // Addition
             result = x + y;
             Console.WriteLine("{0} + {1} = {2}", x, y, result);
 
 
-            // Subtraction operator
+            // Subtraction
             result = x - y;
             Console.WriteLine("{0} - {1} = {2}", x, y, result);
 
 
-            // Multiplication operator
+            // Multiplication
             result = x * y;
             Console.WriteLine("{0} * {1} = {2}", x, y, result);
 
 
-            // Division operator
+            // Division
             result = x / y;
             Console.WriteLine("{0} / {1} = {2}", x, y, result);
 
